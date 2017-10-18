@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Globals -->
+    <string name="app_name">CCleaner</string>
+
+    <!-- Menu items -->
+    <string name="action_clean">Vider</string>
+    <string name="action_rescan">Rescanner</string>
+    <string name="action_search">Rechercher</string>
+    <string name="action_sort_by_name">Trier par nom</string>
+    <string name="action_sort_by_size">Trier par taille</string>
+    <string name="action_settings">Paramètres</string>
+
+    <!-- Apps list header -->
+    <string name="apps_list_header_title">Mémoire de l\'appareil</string>
+    <string name="apps_list_header_used_prefix">Utilisée</string>
+    <string name="apps_list_header_cache_prefix">Cache</string>
+    <string name="apps_list_header_free_prefix">Libérée</string>
+    <string name="apps_list_header_footer">Cache utilisé par application</string>
+    <string name="apps_list_header_memory"><xliff:g id="memory">%1$s</xliff:g></string>
+
+    <!-- Empty list view -->
+    <string name="empty_cache">Le cache est vide.</string>
+    <string name="no_such_app">Pas de telle application.</string>
+
+    <!-- Progress bar -->
+    <string name="scanning">Scan…</string>
+    <string name="scanning_m_of_n">Scan %1$d/%2$d</string>
+
+    <!-- Progress dialog -->
+    <string name="cleaning_cache">Nettoyage du cache</string>
+    <string name="cleaning_in_progress">Nettoyage en cours…</string>
+
+    <!-- Toasts -->
+    <string name="cleaned">Cache vidé</string>
+    <string name="toast_could_not_clean">Impossible de vider le cache</string>
+    <string name="toast_could_not_clean_reason">Impossible de vider le cache : %1$s</string>
+
+    <!-- Settings -->
+    <string name="settings">Paramètres</string>
+    <string name="main_preferences">Préférences principales</string>
+    <string name="about">À propos</string>
+
+    <!-- Clean on app startup preference -->
+    <string name="clean_on_app_startup">Vider au lancement de l\'application</string>
+    <string name="clean_on_app_startup_summary">Vider automatiquement le cache au lancement de l\'application</string>
+
+    <!-- Exit after clean up -->
+    <string name="exit_after_clean">Quitter après nettoyage</string>
+    <string name="exit_after_clean_summary">Quitter après que le bouton Vider soit pressé et que le nettoyage soit terminé</string>
+
+    <!-- Clean on system startup preference -->
+    <string name="clean_on_system_startup">Vider au lancement du système d\'exploitation</string>
+    <string name="clean_on_system_startup_summary">Vider automatiquement le cache au lancement du système d\'exploitation</string>
+
+    <!-- About -->
+    <string name="about_app">À propos de Cache Cleaner</string>
+    <string name="author">Auteur</string>
+    <string name="version_number">Numéro de version</string>
+    <string name="version_number_unknown">Inconnu</string>
+    <string name="note">Licences open source</string>
+    <string name="special_thanks">Remerciements</string>
+    <string name="samuels_graphics_desc">Icône et bannière du Play Store</string>
+
+    <!-- Rationales -->
+    <string name="rationale_title">Autorisations insuffisantes</string>
+    <string name="rationale_storage">L\'autorisation de stockage est nécessaire pour vider le cache externe.</string>
+
+</resources>

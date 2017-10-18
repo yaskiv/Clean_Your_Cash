@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CCleaner</string>
+    <string name="about">О программе</string>
+    <string name="about_app">О CCleaner</string>
+    <string name="action_clean">Очистить</string>
+    <string name="action_rescan">Сканировать</string>
+    <string name="action_search">Поиск</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_sort_by_name">Сортировать по имени</string>
+    <string name="action_sort_by_size">Сортировать по размеру</string>
+    <string name="apps_list_header_cache_prefix">Кэш</string>
+    <string name="apps_list_header_footer">Использование кэша</string>
+    <string name="scanning_m_of_n">Сканирование %1$d/%2$d</string>
+    <string name="settings">Настройки</string>
+    <string name="special_thanks">Отдельное спасибо</string>
+    <string name="version_number_unknown">Неизвестно</string>
+    <string name="version_number">Версия</string>
+    <string name="toast_could_not_clean_reason">Не удалось очистить кэш: %1$s</string>
+    <string name="empty_cache">Кэш пустой</string>
+    <string name="cleaning_in_progress">Выполняется очистка</string>
+    <string name="apps_list_header_free_prefix">Свободно</string>
+    <string name="apps_list_header_memory"></string>
+    <string name="apps_list_header_title">Память устройства</string>
+    <string name="apps_list_header_used_prefix">Используемый</string>
+    <string name="author">Автор</string>
+    <string name="clean_on_app_startup">Очистка после запуска</string>
+    <string name="clean_on_app_startup_summary">Автоматическая очистка после запуска приложения</string>
+    <string name="clean_on_system_startup">Очистка системы</string>
+    <string name="clean_on_system_startup_summary">Автоматическая очистка системы после запуска приложения</string>
+    <string name="cleaned">Кэш очищен</string>
+    <string name="cleaning_cache">Очистка кэша</string>
+    <string name="exit_after_clean">Выйти после очистки</string>
+    <string name="exit_after_clean_summary">Выйти после нажатия кнопки Очистить и завершения очистки</string>
+    <string name="main_preferences">Главное меню</string>
+    <string name="no_such_app">Нет такого приложения</string>
+    <string name="note">Примечание</string>
+    <string name="rationale_title">Недостаточно прав</string>
+    <string name="rationale_storage">Необходимо разрешение</string>
+    <string name="samuels_graphics_desc">Значок и Play Store баннер</string>
+    <string name="scanning">Сканирую</string>
+    <string name="toast_could_not_clean">Не удалось очистить кэш</string>
+</resources>

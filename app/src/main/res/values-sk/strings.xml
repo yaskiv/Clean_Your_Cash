@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Globals -->
+    <string name="app_name">Čistič medzipamäte</string>
+
+    <!-- Menu items -->
+    <string name="action_clean">Vyčistiť</string>
+    <string name="action_rescan">Reskenovať</string>
+    <string name="action_search">Hľadať</string>
+    <string name="action_sort_by_name">Zoradiť podľa názvu</string>
+    <string name="action_sort_by_size">Zoradiť podľa veľkosti</string>
+    <string name="action_settings">Nastavenia</string>
+
+    <!-- Apps list header -->
+    <string name="apps_list_header_title">Pamäť zariadenia</string>
+    <string name="apps_list_header_used_prefix">Použité</string>
+    <string name="apps_list_header_cache_prefix">Medzipamäť</string>
+    <string name="apps_list_header_free_prefix">Voľných</string>
+    <string name="apps_list_header_footer">Využitie medzipamäte</string>
+    <string name="apps_list_header_memory"><xliff:g id="memory">%1$s</xliff:g></string>
+
+    <!-- Empty list view -->
+    <string name="empty_cache">Medzipamäť je prázdna.</string>
+    <string name="no_such_app">Žiadna podobná aplikácia.</string>
+
+    <!-- Progress bar -->
+    <string name="scanning">Skenovanie…</string>
+    <string name="scanning_m_of_n">Skenovanie %1$d/%2$d</string>
+
+    <!-- Progress dialog -->
+    <string name="cleaning_cache">Čistenie medzipamäte</string>
+    <string name="cleaning_in_progress">Prebieha čistenie…</string>
+
+    <!-- Toasts -->
+    <string name="cleaned">Medzipamäť vyčistená</string>
+    <string name="toast_could_not_clean">Nemožno vyčistiť medzipamäť</string>
+    <string name="toast_could_not_clean_reason">Nemožno vyčistiť medzipamäť: %1$s</string>
+
+    <!-- Settings -->
+    <string name="settings">Nastavenia</string>
+    <string name="main_preferences">Hlavné nastavenia</string>
+    <string name="about">O aplikácii</string>
+
+    <!-- Clean on app startup preference -->
+    <string name="clean_on_app_startup">Vyčistiť pri štarte aplikácie</string>
+    <string name="clean_on_app_startup_summary">Automaticky vyčistiť medzipamäť pri štarte aplikácie</string>
+
+    <!-- Exit after clean up -->
+    <string name="exit_after_clean">Odchod po vyčistení</string>
+    <string name="exit_after_clean_summary">Odchod po slačení tlačidla Vyčistiť a ukončení čistenia</string>
+
+    <!-- Clean on system startup preference -->
+    <string name="clean_on_system_startup">Vyčistiť pri štarte systému</string>
+    <string name="clean_on_system_startup_summary">Automaticky vyčistiť medzipamäť pri štarte systému</string>
+
+    <!-- About -->
+    <string name="about_app">O Čističi medzipamäte</string>
+    <string name="author">Autor</string>
+    <string name="version_number">Verzia</string>
+    <string name="version_number_unknown">Neznáma</string>
+    <string name="note">Open source licencie</string>
+    <string name="special_thanks">Špeciálne poďakovanie</string>
+    <string name="samuels_graphics_desc">Dizajn ikony a transparentu pre Play obchod</string>
+
+    <!-- Rationales -->
+    <string name="rationale_title">Nedostatočné povolenia</string>
+    <string name="rationale_storage">Povolenie úložiska je potrebné na čistenie externej medzipamäte.</string>
+
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--new-->
+    <color name="primary">#ffBF360C</color>
+    <color name="primary_dark">#ffFF5722</color>
+    <color name="accent">#ffFF9800</color>
+
+    <color name="apps_list_system_memory">#ff384248</color>
+    <color name="apps_list_cache_memory">#ffFF5722</color>
+    <color name="apps_list_free_memory">#ffced7db</color>
+
+    <color name="dotted_line">#8a000000</color>
+
+
+    <!--old-->
+    <!--<color name="primary">#ff263238</color>-->
+    <!--<color name="primary_dark">#ff21272b</color>-->
+    <!--<color name="accent">#ff009688</color>-->
+
+    <!--<color name="apps_list_system_memory">#ff384248</color>-->
+    <!--<color name="apps_list_cache_memory">#ff009587</color>-->
+    <!--<color name="apps_list_free_memory">#ffced7db</color>-->
+
+    <!--<color name="dotted_line">#8a000000</color>-->
+
+</resources>
